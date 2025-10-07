@@ -1,0 +1,17 @@
+{
+  "name": "notasapp",
+  "version": "1.0.0",
+  "description": "Crear notas de manera sencilla y rapida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Notas",
+    "publicas",
+    "privadas",
+    "prioridad"
+  ],
+  "author": "Vany-devs",
+  "license": "ISC"
+}
