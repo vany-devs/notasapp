@@ -38,10 +38,9 @@ function Informacion() {
             </li>
           </ul>
           <p className="py-2">
-            Este proyecto ha contado con la ayuda de Perla Green, quien
+            Este proyecto ha contado con la ayuda de <span className="font-semibold bg-gradient-to-r from-sky-500 to-purple-500 text-transparent bg-clip-text">Perla Green</span>, quien
             contribuyó con el diseño y desarrollo. El código y la
-            infraestructura han sido desarrollados por mí, Vany-devs, y todos
-            los costos de alojamiento corren por mi cuenta, por lo que los datos
+            infraestructura han sido desarrollados por mí, <span className="font-semibold bg-gradient-to-r from-sky-500 to-purple-500 text-transparent bg-clip-text">Vany-devs</span>, y todos los costos de alojamiento corren por mi cuenta, por lo que los datos
             no se comparten con terceros. Además, las notas privadas cuentan con
             una encriptación básica.
           </p>
